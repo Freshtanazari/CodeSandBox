@@ -1,9 +1,150 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="ZCXOHr8KUIOuPKlek3Ud">
-    <mxGraphModel>
+    <mxGraphModel dx="2372" dy="954" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-1" value="HR Administration" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="-251" y="291" width="181" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-2" value="Compensation &amp;amp; Benefits" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="-230" y="390" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-3" value="Employee Relations &amp; Engagement" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="-124" y="390" width="132" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-4" value="Health &amp; Safety" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="30" y="390" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-5" value="Employee Development &amp;amp; Performance" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="-400" y="390" width="152" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-8" value="Administrative Support" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="149" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-10" value="Workforce Planning &amp;amp; Staffing" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="-521" y="390" width="108" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-15" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" target="tO8TUWEwNaFVQOTsTF_X-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="340" as="sourcePoint" />
+            <mxPoint x="-318" y="491" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-16" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-498" y="340" as="sourcePoint" />
+            <mxPoint x="188.44437662760416" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-17" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.246;exitY=0.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tO8TUWEwNaFVQOTsTF_X-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-197" y="533" as="sourcePoint" />
+            <mxPoint x="-495" y="339" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-18" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=-15;exitPerimeter=0;" edge="1" parent="1" source="tO8TUWEwNaFVQOTsTF_X-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-305" y="438" as="sourcePoint" />
+            <mxPoint x="-324" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-19" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="tO8TUWEwNaFVQOTsTF_X-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-149" y="438" as="sourcePoint" />
+            <mxPoint x="-185" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-20" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.416;exitY=0.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tO8TUWEwNaFVQOTsTF_X-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-149" y="438" as="sourcePoint" />
+            <mxPoint x="-67" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-21" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="77" y="390" as="sourcePoint" />
+            <mxPoint x="77" y="339" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-22" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=-15;exitPerimeter=0;" edge="1" parent="1" source="tO8TUWEwNaFVQOTsTF_X-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="74" y="438" as="sourcePoint" />
+            <mxPoint x="189" y="343" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-23" value="Human Resource Planning" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="-495" y="438" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-24" value="Recruitment and Selection" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="-493" y="477" width="108" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-25" value="Career Planning" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="-493" y="522" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-26" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-493" y="538" as="sourcePoint" />
+            <mxPoint x="-493" y="419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-27" value="Learning and Development" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="-362" y="438" width="103" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-28" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tO8TUWEwNaFVQOTsTF_X-29" target="tO8TUWEwNaFVQOTsTF_X-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-362" y="548" as="sourcePoint" />
+            <mxPoint x="-357" y="411" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-29" value="Performance Management" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="-362" y="477" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-31" value="Function Evaluation" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="-215" y="439" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-32" value="Rewards" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="-215" y="477" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-33" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tO8TUWEwNaFVQOTsTF_X-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-250" y="458" as="sourcePoint" />
+            <mxPoint x="-215" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-34" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.168;entryY=1.062;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tO8TUWEwNaFVQOTsTF_X-36" target="tO8TUWEwNaFVQOTsTF_X-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-102" y="497" as="sourcePoint" />
+            <mxPoint x="-60" y="408" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-35" value="Industrial Relations" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="-102" y="437.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-36" value="Employee Participation and Communication" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="-104" y="477" width="126" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-37" value="Health and Safety" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="48" y="434" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-38" value="Personal Wellbeing" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="48" y="477" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-39" value="Administrative Responsibilities" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="164" y="434" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-40" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.184;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tO8TUWEwNaFVQOTsTF_X-38" target="tO8TUWEwNaFVQOTsTF_X-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="88" y="458" as="sourcePoint" />
+            <mxPoint x="138" y="408" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tO8TUWEwNaFVQOTsTF_X-41" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tO8TUWEwNaFVQOTsTF_X-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="88" y="458" as="sourcePoint" />
+            <mxPoint x="165" y="421" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
